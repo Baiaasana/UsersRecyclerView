@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UsersRecyclerView</string>
+    <string name="firstname">Firstname</string>
+    <string name="e_mail">E-mail</string>
+    <string name="lastname">Lastname</string>
+    <string name="add_user">Add User</string>
+    <string name="toast_empty_field">Please fill in all the fields!</string>
+    <string name="toast_invalid_mail">Please enter the valid mail!</string>
+    <string name="add_success">User Information added successfully!</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_user_btn">Add user</string>
+    <string name="add_user_info">Add User Info</string>
+    <string name="change_user_info">Change User Info</string>
+    <string name="change">change</string>
+
+</resources>
